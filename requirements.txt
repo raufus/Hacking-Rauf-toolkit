@@ -1,0 +1,8 @@
+requests
+python-whois
+dnspython
+beautifulsoup4
+builtwith
+colorama
+aiohttp
+aiodns
